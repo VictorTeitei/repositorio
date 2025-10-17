@@ -2,7 +2,7 @@
 public class Pessoa {
 
 	private int idAt;
-	private String nomeAt:
+	private String nomeAt;
 	private int idadeAt;
 	
 	public Pessoa(){
